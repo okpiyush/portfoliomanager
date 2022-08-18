@@ -4,6 +4,14 @@
     font-family: 'Roboto', sans-serif;
 }
 div button{
-    background-color: purple;
+    background-color:rgb(116 34 221);;
+    color: white;
+    height: 30px;
+    font-weight: 350;
+    width: 150px;
+    border-radius: 5px;
+    border-width: 0px;
+
+
     
 }
